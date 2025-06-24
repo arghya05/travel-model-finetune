@@ -438,4 +438,6 @@ Logging setup and configuration options
 
 Monitoring and alerting setup instructions
 
+Beginner-friendly setup and usage guide
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
