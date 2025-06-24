@@ -303,5 +303,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Memory usage efficiency
 
 
+## ⚙️ Requirements
+
+- Python 3.8+
+- CUDA-compatible GPU
+- 16GB+ RAM recommended
+
+
 
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
