@@ -332,5 +332,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bug fixes and optimizations
 
 
+## 🔌 API Reference
+
+- Model endpoints
+- Request/response formats
+- Authentication methods
+
+
 
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
