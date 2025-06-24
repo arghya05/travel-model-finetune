@@ -404,4 +404,6 @@ Estimated training time: 2-4 hours on RTX 4090
 
 Supported platforms: Linux, Windows (WSL), macOS (limited)
 
+Minimum Python version: 3.8 (3.9+ recommended)
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
