@@ -428,4 +428,6 @@ Model validation procedures and testing protocols
 
 Performance optimization techniques and tips
 
+Detailed hardware specifications and recommendations
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
