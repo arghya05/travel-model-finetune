@@ -430,4 +430,6 @@ Performance optimization techniques and tips
 
 Detailed hardware specifications and recommendations
 
+Complete software dependency list with versions
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
