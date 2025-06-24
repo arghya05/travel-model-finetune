@@ -418,4 +418,6 @@ Enhanced contributing guidelines with development workflow
 
 Detailed license information and usage terms
 
+Detailed model capabilities and limitations
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
