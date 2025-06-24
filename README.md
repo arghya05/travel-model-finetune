@@ -408,4 +408,6 @@ Minimum Python version: 3.8 (3.9+ recommended)
 
 Compatible GPUs: RTX 3090, RTX 4090, A100, V100
 
+Enhanced quick start with step-by-step instructions
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
