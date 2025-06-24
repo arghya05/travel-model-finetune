@@ -398,4 +398,6 @@ Enhanced project description with detailed capabilities
 
 
 
+Memory requirements: 16GB+ GPU VRAM for optimal performance
+
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
