@@ -376,5 +376,12 @@ Enhanced project description with detailed capabilities
 - Quality assurance measures
 
 
+## 🏗️ Model Architecture
+
+- Base model specifications
+- Fine-tuning approach
+- LoRA configuration
+
+
 
 *Last updated: 2024-12-21 | Total training time: ~6-10 hours | Model performance: 9.2/10 travel quality* 
